@@ -113,6 +113,7 @@ position:relative;
 	margin: 0;
 }
 .rslides li {
+	backface-visibility: hidden;
 	-webkit-backface-visibility: hidden;
 	display: none;
 	width: 100%;
